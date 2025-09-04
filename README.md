@@ -2,12 +2,12 @@
 
 ## Step 1 - pacchetti
 
- Per installare i pacchetti PX4 message e Gazebo ROS2
- Bridge, si dovrebbe fare un source del workspace ROS2
+ - Installare i pacchetti PX4 message e Gazebo bridge
+
 
 ## Step 2 - Builda _mocap_bridge_
 
-- Crea ROS2 workspace e clona el repository
+- Crea ROS2 workspace e clona repository
 
   `mkdir -p ~/mocap_ws/src`
 
